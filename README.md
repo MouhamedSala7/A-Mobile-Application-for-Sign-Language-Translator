@@ -1,16 +1,26 @@
-# final_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# sign language translator
+ 
+----
+Sign Language Translator is an innovative project aimed at bridging communication gaps for the hearing-impaired community by translating sign language into text in real-time. This tool focuses on recognizing the alphabet and some essential words, allowing for the construction of coherent sentences to facilitate more effective communication.
+ 
+---
+## Prerequired packages:-
+pickle
+```python
+pip install pickle4
+```
+mediapipe  
+```python
+pip install mediapipe
+```
+ 
+cv2
+```python
+pip install cv
+```
+ 
+numpy 
+```python
+pip install numpy
+```
+----
