@@ -5,21 +5,27 @@ Sign Language Translator is an innovative project aimed at bridging communicatio
  
 ---
 ## Prerequired packages:-
-pickle
+
+- Version of python we're using is :
+``` 
+python 3.11.5
+```
+
+- pickle
 ```python
 pip install pickle4
 ```
-mediapipe  
+- mediapipe  
 ```python
 pip install mediapipe
 ```
  
-cv2
+- cv2
 ```python
 pip install cv
 ```
  
-numpy 
+- numpy 
 ```python
 pip install numpy
 ```
