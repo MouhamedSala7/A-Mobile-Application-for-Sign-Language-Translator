@@ -29,4 +29,14 @@ pip install cv
 ```python
 pip install numpy
 ```
-----
+
+- we create our dataset from scratch [link](https://studenteeluedu-my.sharepoint.com/:f:/g/personal/mouhamed20-00978_student_eelu_edu_eg/EqnguI9HjHxKv9SbRQhE08oBI0Qpg--gALd3evV8rLsRNQ?e=f1EDzz)
+after downloading data folder put it in :
+```
+C:\Users\<usernameforwindows>\Downloads
+```
+---
+
+
+
+
